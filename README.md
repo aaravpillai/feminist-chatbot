@@ -19,4 +19,4 @@ Xela is a scripted chatbot whose persona is set to be gender neutral - with imag
 aforementioned PIA Standards, with the tone of the bot being polite yet assertive.   
 
 
-`This project was created while on the FutureLearn Course on "Designing a Feminist Chatbot" by UAL Creative Computing Institute.`
+`This project was developed while on the FutureLearn Course on "Designing a Feminist Chatbot" by UAL Creative Computing Institute.`
