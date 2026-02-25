@@ -15,8 +15,9 @@ design these assistants to be unfailingly chirpy and polite (even in the face of
 engaging with the chatbot. This raises many ethical concerns, as these female-coded virtual assistants also reinforce stereotypes of women being servile and
 submissive beings. Therefore, it is vital that companies are mindful of unconscious bias when designing chatbots. 
 
-Xela is a scripted chatbot whose persona is set to be gender neutral - with imagery suggestive of a cat. Moreover, the conversation design follows the
-aforementioned PIA Standards, with the tone of the bot being polite yet assertive.   
+Xela is a scripted chatbot whose persona is set to be gender neutral - with imagery suggestive of a cat. Moreover, the conversation design follows the aforementioned PIA Standards, with the tone of the bot being polite yet assertive.   
 
 
 `This project was developed while on the FutureLearn Course on "Designing a Feminist Chatbot" by UAL Creative Computing Institute.`
+
+Live Chatbot Prototye: https://polite-gumdrop-864a11.netlify.app/
