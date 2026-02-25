@@ -20,4 +20,4 @@ Xela is a scripted chatbot whose persona is set to be gender neutral - with imag
 
 `This project was developed while on the FutureLearn Course on "Designing a Feminist Chatbot" by UAL Creative Computing Institute.`
 
-Check out the [Live Chatbot Prototype](feminist-chatbot.netlify.app)
+Check out the [Live Chatbot Prototype](https://feminist-chatbot.netlify.app/)
